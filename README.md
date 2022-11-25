@@ -10,7 +10,7 @@
 
 ### 🌠 How To Use
 - Download/Clone this repository, you can use `git clone https://github.com/ressiws/Discord-bot-typescript` in your cmd as long as you have [GIT](https://git-scm.com/) installed.
-- Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > Bot and enable all your `Privileged Gateway Intents`.
+- Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > Bot and enable your `Privileged Gateway Intents`.
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > OAuth2 > URL Generator and select `bot & application.commands`.
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > Bot and grab your bot token.
 - Open config.json.
