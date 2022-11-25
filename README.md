@@ -11,8 +11,8 @@
 ### 🌠 How To Use
 - Clone repository
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > Bot and enable all your Privileged Gateway Intents.
-- Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > Bot and grab your bot token.
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > OAuth2 > URL Generator and select `bot & application.commands`.
+- Go to the [Discord Developer Portal](https://discord.com/developers/applications) open your application > Bot and grab your bot token.
 - Open config.json.
 - Paste your token on the `token` property.
 - Start the bot.
