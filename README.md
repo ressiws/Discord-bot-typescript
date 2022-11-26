@@ -10,8 +10,8 @@
 
 ### 🌠 How To Use
 - Clone this repository.
-- Open [Discord Developer Portal](https://discord.com/developers/applications) open `application > Bot` and enable your `Privileged Gateway Intents`.
 - Open [Discord Developer Portal](https://discord.com/developers/applications) open `application > OAuth2 > URL Generator` select `bot, application.commands`.
+- Open [Discord Developer Portal](https://discord.com/developers/applications) open `application > Bot` and enable your `Privileged Gateway Intents`.
 - Open [Discord Developer Portal](https://discord.com/developers/applications) open `application > Bot` and grab your bot token.
 - Open config.json.
 - Paste your token on the `token` property.
